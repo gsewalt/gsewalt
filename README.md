@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/gregory-sewalt-24942657/">Gregory Sewalt</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am a cybersecurity enthusiast and thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects to see the practical solutions I’ve implemented to strengthen security operations and enhance organizational resilience.
 
 
 ## ⚠️ Vulnerability Management Projects
