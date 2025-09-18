@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/gregory-sewalt-24942657/">Gregory Sewalt</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/gregory-sewalt-24942657/">Gregory Sewalt</a>'s IT and Cybersecurity Project Portfolio (WIP)🔐
 
 I am a cybersecurity enthusiast and thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects to see the practical solutions I’ve implemented to strengthen security operations and enhance organizational resilience.
 
