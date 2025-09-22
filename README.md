@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello.;+I'm+Gregory+Sewalt.;" />
 </h1>
 
+<h3 align="center">Vulnerability Management | Security Operations | Programmatic Redediation & System Hardening 🔐</h3>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/gregory-sewalt-24942657"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
