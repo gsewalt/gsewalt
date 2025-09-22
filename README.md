@@ -1,6 +1,14 @@
-# <a href="https://www.linkedin.com/in/gregory-sewalt-24942657/">Gregory Sewalt</a>'s Cybersecurity Project Portfolio🔐
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello.;+I'm+Gregory+Sewalt.;" />
+</h1>
 
-I am a cybersecurity enthusiast and thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects to see the practical solutions I’ve implemented to strengthen security operations and enhance organizational resilience.
+<h3 align="center">Educator | Cybersecurity Professional & Agentic AI Engineer🔐</h3>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/gregory-sewalt-24942657"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+I am a cybersecurity enthusiast and thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects to see the practical and innovatie solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
 
 
 ## ⚠️ Vulnerability Management Projects
