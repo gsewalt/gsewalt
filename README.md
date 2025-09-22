@@ -17,8 +17,9 @@ I am a cybersecurity enthusiast and thrive on solving complex challenges through
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/gsewalt/threat-hunting-scenario-tor)**
+threat-hunt-RDP-to-exfiltration
+- **[Threat Hunt: RDP Compromise to Data Exfiltration Scenario](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
+- **[Threat Hunt: Tor Browser Usage](https://github.com/gsewalt/threat-hunting-scenario-tor)**
 
 <hr/>
 
