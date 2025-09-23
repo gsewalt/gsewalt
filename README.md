@@ -19,8 +19,8 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunt: RDP Compromise to Data Exfiltration Scenario](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
-- **[Threat Hunt: Tor Browser Usage](https://github.com/gsewalt/threat-hunting-scenario-tor)**
+- **[Threat Hunt: Data Exfiltration via RDP Compromise Scenario](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
+- **[Threat Hunt: Tor Browser Usage Scenario](https://github.com/gsewalt/threat-hunting-scenario-tor)**
 
 <hr/>
 
