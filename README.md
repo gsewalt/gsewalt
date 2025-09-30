@@ -14,9 +14,10 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 ## ⚠️ Vulnerability Management & GRC Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/gsewalt/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
+- **[PCI-DSS Automated Compliance Top 10 Starter Kit)](https://github.com/gsewalt/pci-top-10-starter-kit)**
 - **[Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)**
 - **[GRC: Corporate Cybersecurity Posture Assessment & Fortification](https://github.com/gsewalt/grc-corporate-cs-assessment-nist-scf)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
 
 
 ## 🚨 Threat Hunting and Security Operations
