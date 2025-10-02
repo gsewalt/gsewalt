@@ -28,7 +28,7 @@ Incident Reponse Lifecycle:
 - **[Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
 
 Threat Hunts:
-- **[Threat Hunt: Data Exfiltration via RDP Compromise Scenario](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
+- **[Threat Hunt: Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
 - **[Threat Hunt: Tor Browser Usage Scenario](https://github.com/gsewalt/threat-hunting-scenario-tor)**
 
 <hr/>
