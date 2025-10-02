@@ -20,9 +20,9 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
 
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations Projects
 Detection-As-Code:
-- **[Brute Force Detection & Mitigation in Python](https://github.com/gsewalt/dac-brute-force-python)
+- **[Brute Force Detection & Mitigation in Python](https://github.com/gsewalt/dac-brute-force-python)**
 
 Incident Reponse Lifecycle:
 - **[Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
