@@ -22,7 +22,7 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 ## 🚨 Threat Hunting and Security Operations Projects
 Detection-As-Code:
-- **[Brute Force Detection & Mitigation in Python](https://github.com/gsewalt/dac-brute-force-python)**
+- **[Automated Brute Force Detection, Alert & Response in Python](https://github.com/gsewalt/dac-brute-force-python)**
 
 Incident Reponse Lifecycle:
 - **[Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
