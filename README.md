@@ -21,7 +21,6 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 
 ## 🚨 Threat Hunting and Security Operations Projects
-- **[Detection-as-code: Automated Brute Force Detection, Alert & Response in Python](https://github.com/gsewalt/dac-brute-force-python)**
 - **[Investigation Report: Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
 - **[Incident Response Lifecycle: Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
 - **[Threat Hunt: Tor Browser Usage Scenario](https://github.com/gsewalt/threat-hunting-scenario-tor)**
