@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/gregory-sewalt-24942657"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-I thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects to see the practical and innovatie solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
+As a security technician and enthusiast, I thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects to see the practical and innovatie solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
 
 
 ## ⚠️ GRC & Vulnerability Management Projects
