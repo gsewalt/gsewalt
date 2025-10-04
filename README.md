@@ -11,16 +11,18 @@
 I thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects to see the practical and innovatie solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
 
 
-## ⚠️ Vulnerability Management & GRC Projects
+## ⚠️ GRC & Vulnerability Management Projects
 
 - **[PCI-DSS Automated Compliance Top 10 Starter Kit](https://github.com/gsewalt/pci-dss-starter-pack)**
-- **[Vulnerability Management Program Implementation](https://github.com/gsewalt/vulnerability-management-program)**
+- **[Automated DISA STIG Non-compliance Detection and Remediation (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
 - **[GRC: Corporate Cybersecurity Posture Assessment & Fortification](https://github.com/gsewalt/grc-corporate-cs-assessment-nist-scf)**
+- **[Vulnerability Management Program Implementation](https://github.com/gsewalt/vulnerability-management-program)**
 - **[Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
 
 
-## 🚨 Threat Hunting and Security Operations Projects
+## 🚨 Security Engineering and SecOps Projects
+
+- **[Detection-as-code: Automated Multi-Platform Brute Force Detection and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
 - **[Investigation Report: Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
 - **[Incident Response Lifecycle: Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
 - **[Threat Hunt: Tor Browser Usage Scenario](https://github.com/gsewalt/threat-hunting-scenario-tor)**
