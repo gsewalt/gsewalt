@@ -22,7 +22,7 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 ## 🚨 Security Engineering and SecOps Projects
 
-- **[Detection-as-code: Automated Multi-Platform Brute Force Detection and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
+- **[Detection-as-code: Automated Multi-Platform Brute Force Detection, Alerting and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
 - **[Investigation Report: Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
 - **[Incident Response Lifecycle: Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
 
