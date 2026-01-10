@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello.;+I'm+Gregory+Sewalt.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello.;+Gregory Sewalt at your service.;" />
 </h1>
 
 <h3 align="center">Vulnerability Management | GRC | SecOps | Cybersecurity Automation Engineering 🔐</h3>
@@ -15,9 +15,9 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 - **[PCI-DSS Automated Compliance Top 10 Starter Kit](https://github.com/gsewalt/pci-dss-starter-pack)**
 - **[Automated DISA STIG Non-compliance Detection and Remediation (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
-- **[GRC: Corporate Cybersecurity Posture Assessment & Fortification](https://github.com/gsewalt/grc-corporate-cs-assessment-nist-scf)**
 - **[Vulnerability Management Program Implementation](https://github.com/gsewalt/vulnerability-management-program)**
 - **[Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)**
+- **[GRC: Corporate Cybersecurity Posture Assessment & Fortification](https://github.com/gsewalt/grc-corporate-cs-assessment-nist-scf)**
 
 
 ## 🚨 Security Engineering and SecOps Projects
