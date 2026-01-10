@@ -13,10 +13,10 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 ## ⚠️ Vulnerability Management
 
-- **[PCI-DSS Automated Compliance Top 10 Starter Kit](https://github.com/gsewalt/pci-dss-starter-pack)**
+- **[Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)**
+- **[PCI-DSS Compliance Top 10 Starter Kit](https://github.com/gsewalt/pci-dss-starter-pack)**
 - **[Automated DISA STIG Non-compliance Detection and Remediation (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
 - **[Vulnerability Management Program Implementation](https://github.com/gsewalt/vulnerability-management-program)**
-- **[Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)**
 
 
 ## 🚨 Security Operations and Engineering
