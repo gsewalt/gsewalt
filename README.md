@@ -14,7 +14,7 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 ## ⚠️ Vulnerability Management
 
 - **[Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)**
-- **[NIST Risk Management Framework Implementation](https://github.com/gsewalt/grc-corporate-cs-assessment-nist-scf)**
+- **[Case Study: NIST Risk Management Framework Implementation for a Small Business](https://github.com/gsewalt/rmf-case-study-smb)**
 - **[PCI-DSS Compliance Top 10 Starter Kit](https://github.com/gsewalt/pci-dss-starter-pack)**
 - **[Automated DISA STIG Non-compliance Detection and Remediation (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
 - **[Vulnerability Management Program Implementation](https://github.com/gsewalt/vulnerability-management-program)**
