@@ -8,13 +8,13 @@
     <a href="https://www.linkedin.com/in/gregory-sewalt-24942657"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-As a cybersecurity technician and enthusiast, I thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects to see the practical and innovatie solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
+As a cybersecurity technician and enthusiast, I thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects and case studies to see the practical and innovatie solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
 
 
 ## ⚠️ Vulnerability Management
 
-- **[Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)**
 - **[Case Study: NIST Risk Management Framework Implementation for a Small Business](https://github.com/gsewalt/rmf-case-study-smb)**
+- **[Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)**
 - **[PCI-DSS Compliance Top 10 Starter Kit](https://github.com/gsewalt/pci-dss-starter-pack)**
 - **[Automated DISA STIG Non-compliance Detection and Remediation (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
 - **[Vulnerability Management Program Implementation](https://github.com/gsewalt/vulnerability-management-program)**
@@ -22,9 +22,9 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 ## 🚨 Security Operations and Engineering
 
+- **[Case Study: Investigation Report for Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
 - **[Multi-Platform Integration: Automated Brute Force Detection, Alerting and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
-- **[Investigation Report: Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
-- **[Incident Response: Zero Day Ransomware](https://github.com/gsewalt/incident-response-ransomware-pwncrypt)**
+- **[Incident Response Project: Zero Day Ransomware](https://github.com/gsewalt/incident-response-ransomware-pwncrypt)**
 - **[Incident Response Lifecycle: Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
 
 <hr/>
