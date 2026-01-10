@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello.;+Gregory Sewalt at your service.;" />
 </h1>
 
-<h3 align="center">Vulnerability Management | GRC | SecOps | Cybersecurity Automation Engineering 🔐</h3>
+<h3 align="center">Vulnerability Management | SecOps | Cybersecurity Automation Engineering 🔐</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/gregory-sewalt-24942657"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,16 +11,15 @@
 As a cybersecurity technician and enthusiast, I thrive on solving complex challenges through hands-on, real-world projects. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects to see the practical and innovatie solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
 
 
-## ⚠️ GRC & Vulnerability Management Projects
+## ⚠️ Vulnerability Management
 
 - **[PCI-DSS Automated Compliance Top 10 Starter Kit](https://github.com/gsewalt/pci-dss-starter-pack)**
 - **[Automated DISA STIG Non-compliance Detection and Remediation (PowerShell and BASH)](https://github.com/gsewalt/programmatic-vulnerability-remediations)**
 - **[Vulnerability Management Program Implementation](https://github.com/gsewalt/vulnerability-management-program)**
 - **[Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)**
-- **[GRC: Corporate Cybersecurity Posture Assessment & Fortification](https://github.com/gsewalt/grc-corporate-cs-assessment-nist-scf)**
 
 
-## 🚨 Security Engineering and SecOps Projects
+## 🚨 Security Operations and Engineering
 
 - **[Multi-Platform Integration: Automated Brute Force Detection, Alerting and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
 - **[Investigation Report: Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
