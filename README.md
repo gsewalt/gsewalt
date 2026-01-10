@@ -22,7 +22,7 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 ## 🚨 Security Operations and Engineering
 
-- **[Case Study: Investigation Report for Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration)**
+- **[Case Study: Investigation Report for Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-exfil)**
 - **[Multi-Platform Integration: Automated Brute Force Detection, Alerting and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
 - **[Incident Response Project: Zero Day Ransomware](https://github.com/gsewalt/incident-response-ransomware-pwncrypt)**
 - **[Incident Response Lifecycle: Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
