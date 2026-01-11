@@ -15,19 +15,19 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 - **[Case Study: NIST Risk Management Framework Implementation for Real Estate Brokerage](https://github.com/gsewalt/rmf-case-study-smb)**
 - **[Case Study: Cybersecurity Assessment for Dental Practice using NIST Cybersecurity Framework](https://github.com/gsewalt/nist-scf-case-study)**
-- **[Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)**
+- **[Lab: Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)** 
+- **[Lab: Active Directory Enterprise Environment Simulation](https://github.com/gsewalt/ad-enterprise-lab)**
 - **[PCI-DSS Compliance Top 10 Starter Kit](https://github.com/gsewalt/pci-dss-starter-pack)**
 - **[20+ Programmatic Vulnerability Remediations in PowerShell and BASH](https://github.com/gsewalt/programmatic-vuln-remed)**
-- **[Vulnerability Management Program Implementation](https://github.com/gsewalt/vulnerability-management-program)**
 
 
 ## 🚨 Security Operations and Engineering
 
 - **[Case Study: Investigation Report for Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-exfil)**
-- **[Multi-Platform Integration: Automated Brute Force Detection, Alerting and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
-- **[Wireshark Packet Analysis Demonstration](https://github.com/gsewalt/wireshark-demo)**
-- **[Incident Response Project: Zero Day Ransomware](https://github.com/gsewalt/incident-response-ransomware-pwncrypt)**
 - **[Incident Response Lifecycle: Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
+- **[Lab: Wireshark Packet Analysis Demonstration](https://github.com/gsewalt/wireshark-demo)**
+- **[Lab: Incident Response -- Zero Day Ransomware](https://github.com/gsewalt/incident-response-ransomware-pwncrypt)**
+- **[Multi-Platform Integration: Automated Brute Force Detection, Alerting and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
 
 <hr/>
 
