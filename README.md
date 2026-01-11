@@ -25,6 +25,7 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 - **[Case Study: Investigation Report for Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-exfil)**
 - **[Incident Response Lifecycle: Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
+- **[Lab: Cloud SOC & Honeynet Deployment](https://github.com/gsewalt/cloud-soc-honeynet)**
 - **[Lab: Wireshark Packet Analysis Demonstration](https://github.com/gsewalt/wireshark-demo)**
 - **[Lab: Incident Response -- Zero Day Ransomware](https://github.com/gsewalt/incident-response-ransomware-pwncrypt)**
 - **[Multi-Platform Integration: Automated Brute Force Detection, Alerting and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
