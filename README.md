@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/gregory-sewalt-24942657"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-As a cybersecurity professional and enthusiast, I thrive on solving complex challenges through hands-on, real-world applications. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects and case studies to see the practical and innovatie solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
+As a cybersecurity professional and enthusiast, I thrive on solving complex challenges through hands-on, real-world applications. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects and case studies to see the practical and innovative solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
 
 
 ## ⚠️ Vulnerability Management
