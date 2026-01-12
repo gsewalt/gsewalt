@@ -13,7 +13,8 @@ As a cybersecurity technician and enthusiast, I thrive on solving complex challe
 
 ## ⚠️ Vulnerability Management
 
-- **[Case Study: NIST Risk Management Framework Implementation for Real Estate Brokerage](https://github.com/gsewalt/rmf-case-study-smb)**
+- **[Case Study: Qualitative Risk Assessment for Real Estate Brokerage](https://github.com/gsewalt/case-study-800-30)**
+- **[Case Study: Posture Assessments for Real Estate Brokerage using NIST Risk Management Framework](https://github.com/gsewalt/rmf-case-study-smb)**
 - **[Case Study: Cybersecurity Assessment for Dental Practice using NIST Cybersecurity Framework](https://github.com/gsewalt/nist-scf-case-study)**
 - **[Lab: Nessus Essentials Vulnerability Management in Azure Sandbox Network](https://github.com/gsewalt/nessus-essentials-vulnerability-management)** 
 - **[Lab: Active Directory Enterprise Environment Simulation](https://github.com/gsewalt/ad-enterprise-lab)**
