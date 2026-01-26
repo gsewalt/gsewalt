@@ -12,6 +12,7 @@ As a cybersecurity professional and software engineer, I thrive on solving compl
 
 ## 🛠️ Engineering Projects
 - **[Agentic AI Threat Hunting & IOC Intelligence Enrichment Suite](https://github.com/gsewalt/ai-threat-hunter-intel-suite)**
+- **[Multi-Platform Integration: Automated Brute Force Detection, Alerting and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
 
 ## ⚠️ Vulnerability Management
 
@@ -32,7 +33,6 @@ As a cybersecurity professional and software engineer, I thrive on solving compl
 - **[Lab: Cloud SOC & Honeynet Deployment](https://github.com/gsewalt/cloud-soc-honeynet)**
 - **[Lab: Wireshark Packet Analysis Demonstration](https://github.com/gsewalt/wireshark-demo)**
 - **[Lab: Incident Response -- Zero Day Ransomware](https://github.com/gsewalt/incident-response-ransomware-pwncrypt)**
-- **[Multi-Platform Integration: Automated Brute Force Detection, Alerting and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
 
 <hr/>
 
