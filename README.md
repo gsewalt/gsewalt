@@ -10,6 +10,8 @@
 
 As a cybersecurity professional and enthusiast, I thrive on solving complex challenges through hands-on, real-world applications. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects and case studies to see the practical and innovative solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
 
+## 🛠️ Engineering Projects
+- **[Agentic AI Threat Hunting & IOC Intelligence Enrichment Suite](https://github.com/gsewalt/ai-threat-hunter-intel-suite)**
 
 ## ⚠️ Vulnerability Management
 
