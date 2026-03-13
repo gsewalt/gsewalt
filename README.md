@@ -35,8 +35,8 @@ As a cybersecurity professional and software engineer, I thrive on solving compl
 
 ## 🛠️ Game Design
 
+- **[[Godot] Flappy Wyvern](https://github.com/gsewalt/flappywyvern)**
 - **[Goron Mountain (Mario Party-Like)](https://github.com/gsewalt/goronmountain)**
-- **[Flappy Wyvern](https://github.com/gsewalt/flappywyvern)**
 
 <hr/>
 
