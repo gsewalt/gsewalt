@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello.;+I'm+Gregory+Sewalt.;" />
 </h1>
 
-<h3 align="center">Vulnerability Management | SecOps | Cybersecurity Automation Engineering 🔐</h3>
+<h3 align="center">Cybersecurity | IT | Video Game Development</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/gregory-sewalt-24942657"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -36,7 +36,7 @@ As a cybersecurity professional and software engineer, I thrive on solving compl
 ## 🛠️ Game Design
 
 - **[Goron Mountain (Mario Party-Like)](https://github.com/gsewalt/goronmountain)**
-- **[Flappy Wyvern](https://github.com/gsewalt/flappydragon)**
+- **[Flappy Wyvern](https://github.com/gsewalt/flappywyvern)**
 
 <hr/>
 
