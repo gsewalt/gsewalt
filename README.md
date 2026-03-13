@@ -25,14 +25,18 @@ As a cybersecurity professional and software engineer, I thrive on solving compl
 - **[PCI-DSS Compliance Top 10 Starter Kit](https://github.com/gsewalt/pci-dss-starter-pack)**
 - **[20+ Programmatic Vulnerability Remediations in PowerShell and BASH](https://github.com/gsewalt/programmatic-vuln-remed)**
 
-
-## 🚨 Security Operations and Engineering
+## 🚨 Security Operations
 
 - **[Case Study: Investigation Report for Data Exfiltration via RDP Compromise](https://github.com/gsewalt/threat-hunt-RDP-exfil)**
 - **[Incident Response Lifecycle: Brute Force Attempt](https://github.com/gsewalt/incident-response-brute-force-attempt)**
 - **[Lab: Cloud SOC & Honeynet Deployment](https://github.com/gsewalt/cloud-soc-honeynet)**
 - **[Lab: Wireshark Packet Analysis Demonstration](https://github.com/gsewalt/wireshark-demo)**
 - **[Lab: Incident Response -- Zero Day Ransomware](https://github.com/gsewalt/incident-response-ransomware-pwncrypt)**
+
+## 🛠️ Game Design
+
+- **[Goron Mountain (Mario Party-Like)](https://github.com/gsewalt/goronmountain)**
+- **[Flappy Wyvern](https://github.com/gsewalt/flappydragon)**
 
 <hr/>
 
