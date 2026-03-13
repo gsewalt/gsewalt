@@ -10,6 +10,11 @@
 
 As a cybersecurity professional and software engineer, I thrive on solving complex challenges through hands-on, real-world applications. From vulnerability management to threat detection, my work allows me to explore the dynamic and ever-evolving cybersecurity landscape. I invite you to explore these projects and case studies to see the practical and innovative solutions I’ve implemented to strengthen cybersecurity operations and enhance organizational resilience.
 
+## 🛠️ Game Design
+
+- **[[Godot] Flappy Wyvern](https://github.com/gsewalt/flappywyvern)**
+- **[Goron Mountain (Mario Party-Like)](https://github.com/gsewalt/goronmountain)**
+
 ## 🛠️ Engineering Projects
 - **[Agentic AI Threat Hunting & IOC Intelligence Enrichment Suite](https://github.com/gsewalt/ai-threat-hunter-intel-suite)**
 - **[Multi-Platform Integration: Automated Brute Force Detection, Alerting and Response with Python](https://github.com/gsewalt/dac-brute-force-python)**
@@ -32,11 +37,6 @@ As a cybersecurity professional and software engineer, I thrive on solving compl
 - **[Lab: Cloud SOC & Honeynet Deployment](https://github.com/gsewalt/cloud-soc-honeynet)**
 - **[Lab: Wireshark Packet Analysis Demonstration](https://github.com/gsewalt/wireshark-demo)**
 - **[Lab: Incident Response -- Zero Day Ransomware](https://github.com/gsewalt/incident-response-ransomware-pwncrypt)**
-
-## 🛠️ Game Design
-
-- **[[Godot] Flappy Wyvern](https://github.com/gsewalt/flappywyvern)**
-- **[Goron Mountain (Mario Party-Like)](https://github.com/gsewalt/goronmountain)**
 
 <hr/>
 
